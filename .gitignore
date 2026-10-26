@@ -8,3 +8,8 @@ Thumbs.db
 # Editor
 .vscode/
 .idea/
+
+# Reference captures & working artifacts
+screenshots/
+assets/bhumika.png
+assets/bhumika-cut.png
